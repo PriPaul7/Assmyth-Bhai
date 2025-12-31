@@ -1,6 +1,6 @@
-# ��� Birthday Countdown Website
+# ��� Anniversary Countdown Website
 
-Beautiful birthday website with countdown, photo gallery, and celebration effects!
+Beautiful Anniversary website with countdown, photo gallery, and celebration effects!
 
 ---
 
@@ -16,12 +16,12 @@ Open `http://localhost:5173`
 
 ## ✏️ Customize
 
-### 1. Birthday Date ⏰
+### 1. Anniversary date ⏰
 
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2025-12-31T07:00:00");
 ```
 
 **Format Explanation:**
@@ -70,9 +70,9 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
-const message = `Your message here...`;
+const recipientName = "Krishunana";
+const senderName = "SuprajaKrishnaVamsi";
+const message = `Love you nana na Krishukodukuu`;
 ```
 
 ---

@@ -14,9 +14,9 @@ Open `http://localhost:5173`
 
 ---
 
-## ✏️ Customize
+## ✏️ shris......
 
-### 1. Birthday Date ⏰
+### 1. 05 01 2009
 
 **File:** `src/components/Countdown.jsx` (Line 21)
 
@@ -65,7 +65,7 @@ const targetDate = new Date("2025-12-25T12:00:00");
 
 ---
 
-### 2. Names & Message
+### 2. dear shrishti rathore! 
 
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
@@ -77,9 +77,9 @@ const message = `Your message here...`;
 
 ---
 
-### 3. Photos
+### 3. 
 
-Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
+ 
 
 ---
 
@@ -121,20 +121,7 @@ There's a special **"��� Test Celebration"** button on the countdown page 
 
 **IMPORTANT:** Delete the test button before sharing the website with her!
 
-**File:** `src/components/Countdown.jsx`  
-**Lines to delete:** 95-101
 
-**Look for this code and DELETE it:**
-```javascript
-{/* ⚠️ TEST BUTTON - delete it from here⚠️ */}
-<button
-  className="test-button"
-  onClick={onBirthdayReached}
-  title="Skip countdown and see celebration"
->
-  ��� Test Celebration
-</button>
-{/* ⚠️ END TEST BUTTON - DELETE UP TO HERE ⚠️ */}
 ```
 
 **How to delete:**

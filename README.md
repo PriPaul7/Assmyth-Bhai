@@ -22,7 +22,7 @@ Open `http://localhost:5173`
 
 ## ✏️ Customize
 
-### 1. Birthday Date ⏰
+### 1. Birthday Date 7-4-2026⏰
 
 **File:** `src/components/Countdown.jsx` (Line 21)
 

@@ -27,7 +27,7 @@ Open `http://localhost:5173`
 **File:** `src/components/Countdown.jsx` (Line 21)
 
 ```javascript
-const targetDate = new Date("2025-12-18T00:00:00");
+const targetDate = new Date("2026-02-02T00:00:00");
 ```
 
 **Format Explanation:**
@@ -76,9 +76,9 @@ const targetDate = new Date("2025-12-25T12:00:00");
 **File:** `src/components/MessageCard.jsx` (Lines 17-28)
 
 ```javascript
-const recipientName = "Divyanshi";
-const senderName = "Ashmit";
-const message = `Your message here...`;
+const recipientName = "ROHINI";
+const senderName = "TARUU";
+const message = `HAPPIEST BIRTHDAY TO THE MOST PRETTIEST SOUL I EVER HAD💗😚,I CAN'T EXPRESS THIS FEELING 😍IT WAS THE DAY WHERE MYY SWEETIEE GIRL WAS BORN.I Always wish youu to be healthy and happie🎂🎊💗😘 eat good Take care yourself stay every moment with ease lovee youu myy babyy girl 😘🙈 It was not Just day like but it remains the day that i found my soul to be ended with and i May not thank enough god to send me the most loyal woman in this world enough to be loved by youu in this lifee🫶🏻🎀💍 Once again happy birthday to youu myyy love ❤️‍🩹;
 ```
 
 ---
@@ -92,12 +92,6 @@ Add 6 photos to `public/images/` named: `pic1.jpg` to `pic6.jpg`
 ### 4. Music (Optional)
 
 Replace `public/music.mp3` with your song
-
----
-
-## ��� Test Your Changes
-
-### Using the Test Button
 
 There's a special **"��� Test Celebration"** button on the countdown page that lets you skip the timer instantly!
 

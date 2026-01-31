@@ -13,19 +13,17 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Nandini,
+Love of my life, it's your birthday today! 🎂 And I wish you many many happy returns to you!
+May this year and coming years bring you endless joy, success, and all the happiness in the world. You deserve nothing but the best.
+On this special day, I want you to know how much you mean to me. You light up my life in ways words can't express. Your smile, your kindness, and your love make every day brighter.
+I miss you , your beautiful glowing eyes and your warm hugs. I wish to see your pretty eyes and smile all my life.
 
-Your personalized birthday message goes here.
+Here's to celebrating you today and always. May all your dreams come true, and may we create countless beautiful memories together.
+This day is special because you are special to me. 
+Happy Birthday my Baalu! 🎉
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
-
-Happy Birthday! 🎉
-
-— [Your Name]`;
+— With all my love, Your Batman 🦇❤️`;
 
   // Handle page transitions
   useEffect(() => {

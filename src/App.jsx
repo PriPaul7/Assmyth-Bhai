@@ -17,13 +17,13 @@ function App() {
 
   // ⚠️ FOR TESTING: Comment out lines 18-21 to reset on every reload
   // Check localStorage to persist birthday reached state
-  const [birthdayReached, setBirthdayReached] = useState(() => {
+  /*const [birthdayReached, setBirthdayReached] = useState(() => {
     const saved = localStorage.getItem("birthdayReached");
     return saved === "true";
   });
-
+*/
   // ✅ FOR TESTING: Uncomment this line to always show countdown on reload
-  // const [birthdayReached, setBirthdayReached] = useState(false);
+  const [birthdayReached, setBirthdayReached] = useState(false);
 
   const [showEffects, setShowEffects] = useState(false);
 
@@ -96,16 +96,16 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Happy Birthday <span className="highlight">Nandini</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
+                Counting down to <span className="highlight">Nandini's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p>To the Cutest & Sweetest person in the World 💗</p>
         </section>
 
         <Countdown
@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 Always Yours — Kishan 💖</h2>
+          <p className="final-subtitle">Thanks for always being there, Love You Nandini ✨</p>
         </section>
       </div>
 

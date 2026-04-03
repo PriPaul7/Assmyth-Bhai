@@ -13,7 +13,6 @@ import MusicPlayer from "./components/MusicPlayer";
 gsap.registerPlugin(ScrollToPlugin);
 
 function App() {
-  import { useState } from "react"; // if not already
   const [currentPage, setCurrentPage] = useState(1); // Start at 1 for Countdown page
 
   // ⚠️ FOR TESTING: Comment out lines 18-21 to reset on every reload

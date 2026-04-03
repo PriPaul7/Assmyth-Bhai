@@ -17,13 +17,15 @@ function MessageCard({ isActive }) {
 
 YAYAYAYYAYA!
 
-Its your birthday, Finally the day arives and i want to wish you a very happy birthday from my side
+To my BEST FRIEND, MY SPECIAL ONE, MY PARTNER, MY LISTNER, MY PYARI SI GURLY POP.
+
+Its your birthday, Finally the day arives and i want to wish you a very happy birthday.
 our first time celebrating your birthday together feels so unreal. But will make it a memorable one anyhow, 
 Smile and laugh the whole day do not cry this year as i am here if u feel like it just call me hit me up i am all yours
-i am so happy seeing you growing up no just age but in every aspect and makes me proud of you, u do inspire me a lot and i wish u to be with me for this whole life time.
-U are my one and only special 'NANKHATAI' and you will always be my special one. 
+i am so happy seeing you growing up no just age but in every aspect of lifr and makes me proud so of you, u do inspire me a lot and i wish to be inspire by you for whole my life.
+U are my one and only special 'NANKHATAI' and you will always be my special one in my heart none can take your place in my life.
 So be happy, grow old, be healthy, be wealthy. Take care of your self. 
-And i'll always love you. 
+And i'll always love you, always LOVE YOU 3000 <3 
 
 Happy Birthday! 🎉
 

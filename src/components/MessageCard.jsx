@@ -20,11 +20,14 @@ YAYAYAYYAYA!
 To my BEST FRIEND, MY SPECIAL ONE, MY PARTNER, MY LISTNER, MY PYARI SI GURLY POP.
 
 Its your birthday, Finally the day arives and i want to wish you a very happy birthday.
-our first time celebrating your birthday together feels so unreal. But will make it a memorable one anyhow, 
-Smile and laugh the whole day do not cry this year as i am here if u feel like it just call me hit me up i am all yours
+our first time celebrating your birthday together feels so unreal. But will make it a memorable one anyhow, well as i can't do anything physically i am trying my best to make it special by making this hope you liked it!
+
+So my pyari Niyati smile and laugh the whole day do not cry this year as i am here if u feel like it just call me hit me up i am all yours. U know that right?
 i am so happy seeing you growing up no just age but in every aspect of lifr and makes me proud so of you, u do inspire me a lot and i wish to be inspire by you for whole my life.
 U are my one and only special 'NANKHATAI' and you will always be my special one in my heart none can take your place in my life.
-So be happy, grow old, be healthy, be wealthy. Take care of your self. 
+So be happy, grow old, be healthy, be wealthy. Take care of your self. Hope 19th would be kind to you, best for you and memorable for you. 
+Well how can it not be i am here so it has to be right? ya ya i am the best present you got i know still gota give you a gift so please accept this from me.
+
 And i'll always love you, always LOVE YOU 3000 <3 
 
 Happy Birthday! 🎉

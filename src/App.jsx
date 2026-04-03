@@ -95,6 +95,13 @@ function App() {
         <section className="hero">
           <h1 id="heroTitle">
             {birthdayReached ? (
+        {birthdayReached ? (
+    <CelebrationPage />
+  ) : (
+    <Countdown onBirthdayReached={handleBirthdayReached} />
+  )}
+</section>
+
               <>
                 Happy Birthday <span className="highlight">"Niyati"</span> 🎂
               </>

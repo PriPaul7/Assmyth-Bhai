@@ -13,19 +13,21 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Niyati],
 
-Your personalized birthday message goes here.
+YAYAYAYYAYA!
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
-
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Its your birthday, Finally the day arives and i want to wish you a very happy birthday from my side
+our first time celebrating your birthday together feels so unreal. But will make it a memorable one anyhow, 
+Smile and laugh the whole day do not cry this year as i am here if u feel like it just call me hit me up i am all yours
+i am so happy seeing you growing up no just age but in every aspect and makes me proud of you, u do inspire me a lot and i wish u to be with me for this whole life time.
+U are my one and only special 'NANKHATAI' and you will always be my special one. 
+So be happy, grow old, be healthy, be wealthy. Take care of your self. 
+And i'll always love you. 
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [Priyanshu]`;
 
   // Handle page transitions
   useEffect(() => {

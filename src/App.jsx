@@ -95,18 +95,12 @@ function App() {
         <section className="hero">
           <h1 id="heroTitle">
             {birthdayReached ? (
-    <CelebrationPage />
-  ) : (
-    <Countdown onBirthdayReached={handleBirthdayReached} />
-  )}
-</section>
-
               <>
                 Happy Birthday <span className="highlight">"Niyati"</span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Niyati]'s</span>{" "}
+                Counting down to <span className="highlight">[Name]'s</span>{" "}
                 special day 🎂
               </>
             )}

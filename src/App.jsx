@@ -95,7 +95,6 @@ function App() {
         <section className="hero">
           <h1 id="heroTitle">
             {birthdayReached ? (
-        {birthdayReached ? (
     <CelebrationPage />
   ) : (
     <Countdown onBirthdayReached={handleBirthdayReached} />

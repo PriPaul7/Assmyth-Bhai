@@ -100,7 +100,7 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">Niyati's</span>{" "}
+                Counting down to <span className="highlight">"Niyati's"</span>{" "}
                 special day 🎂
               </>
             )}
@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 Forever Yours — [Priyanshu] 💖</h2>
+          <p className="final-subtitle">STAY HAPPY AND BLESSED ✨</p>
         </section>
       </div>
 

@@ -88,6 +88,7 @@ function App() {
 
       {/* PAGE 1: Countdown Timer */}
       <div
+        className={`page ${currentPage === 1 ? "active" : ""}`}
         style={{ visibility: currentPage === 1 ? "visible" : "hidden" }}
       >
         <section className="hero">
